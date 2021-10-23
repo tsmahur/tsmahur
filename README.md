@@ -12,7 +12,9 @@
 #
 ### Java Concepts -> [java-concepts](https://github.com/tsmahur/java-concepts)
 #
-### POC Java - SpringBoot -> [poc-java-springboot](https://github.com/tsmahur/poc-java-springboot)
+### Java - SpringBoot -> [poc-java-springboot](https://github.com/tsmahur/poc-java-springboot)
+#
+### Java - SpringBoot (H2-DATABASE)-> [h2-db](https://github.com/tsmahur/h2-db)
 #
 ### Microservices with Eureka, Api-Gateway, Hystrix, Cloud config server, Zipkin
    - [ms-eureka-gateway-hysrtix-cloud-config](https://github.com/tsmahur/ms-eureka-gateway-hysrtix-cloud-config)
