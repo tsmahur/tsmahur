@@ -6,7 +6,7 @@
 #
 ### News App -> [news-app](https://github.com/tsmahur/news-app)
 #   
-### TextUtils -> [TextUtils](https://github.com/tsmahur/TextUtils)
+### TextUtils -> [TextUtils](https://github.com/tsmahur/TextUtils) [Live - TextUtils - click here](https://tsmahur.github.io/TextUtils)
 #
 ### Reactive SpringBooot, Reactive MongoDB-> [reactive-springboot](https://github.com/tsmahur/reactive-springboot)
 #
@@ -15,6 +15,8 @@
 ### Java - SpringBoot -> [poc-java-springboot](https://github.com/tsmahur/poc-java-springboot)
 #
 ### Java - SpringBoot (H2-DATABASE)-> [h2-db](https://github.com/tsmahur/h2-db)
+#
+### Java - Spring Cloud Function-> [spring-cloud-function](https://github.com/tsmahur/spring-cloud-function)
 #
 ### Microservices with Eureka, Api-Gateway, Hystrix, Cloud config server, Zipkin
    - [ms-eureka-gateway-hysrtix-cloud-config](https://github.com/tsmahur/ms-eureka-gateway-hysrtix-cloud-config)
