@@ -6,7 +6,7 @@
 #
 ### News App -> [news-app](https://github.com/tsmahur/news-app)
 #   
-### TextUtils -> [TextUtils](https://github.com/tsmahur/TextUtils) [Live - TextUtils - click here](https://tsmahur.github.io/TextUtils)
+### TextUtils -> [TextUtils](https://github.com/tsmahur/TextUtils)  Live ->  [TextUtils - click here](https://tsmahur.github.io/TextUtils)
 #
 ### Reactive SpringBooot, Reactive MongoDB-> [reactive-springboot](https://github.com/tsmahur/reactive-springboot)
 #
