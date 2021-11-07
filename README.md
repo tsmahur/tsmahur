@@ -12,7 +12,7 @@
 #
 ### Java Concepts -> [java-concepts](https://github.com/tsmahur/java-concepts)
 #
-### Java - SpringBoot -> [poc-java-springboot](https://github.com/tsmahur/poc-java-springboot)
+### Java - SpringBoot -> [java-springboot](https://github.com/tsmahur/java-springboot)
 #
 ### Java - SpringBoot (H2-DATABASE)-> [h2-db](https://github.com/tsmahur/h2-db)
 #
