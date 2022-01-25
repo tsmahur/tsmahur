@@ -1,4 +1,4 @@
-### Hello Namaste :pray:
+### <p align="center"> Hello Namaste :pray: </p>
 #
 ### (React+SpringBoot) Video streaming Web Application
 1. React App Frontend-> [video-stream-react-app](https://github.com/tsmahur/video-stream-react-app)
