@@ -4,9 +4,11 @@
 1. React App Frontend-> [video-stream-react-app](https://github.com/tsmahur/video-stream-react-app)
 2. Spring Boot Backend -> [video-stream-springboot](https://github.com/tsmahur/video-stream-springboot)
 #
-### React
- - News App -> [news-app](https://github.com/tsmahur/news-app)  
- - TextUtils -> [TextUtils](https://github.com/tsmahur/TextUtils)  Live ->  [TextUtils - click here](https://tsmahur.github.io/TextUtils)
+### Forntend
+ - News App (React) -> [news-app](https://github.com/tsmahur/news-app)  
+ - TextUtils (React) -> [TextUtils](https://github.com/tsmahur/TextUtils)  Live ->  [TextUtils - click here](https://tsmahur.github.io/TextUtils)
+ - Calculator -> [calculator](https://github.com/tsmahur/calculator) Live -> [calculator](https://tsmahur.github.io/calculator/)
+ - Portofolio -> [portfolio](https://github.com/tsmahur/portfolio)   Live -> [portfolio](https://tsmahur.github.io/portfolio/)
 #
 ### Java Core
 - Java Concepts -> [java-concepts](https://github.com/tsmahur/java-concepts)
