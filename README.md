@@ -9,9 +9,11 @@
  - TextUtils (React) -> [TextUtils](https://github.com/tsmahur/TextUtils)  Live ->  [TextUtils - click here](https://tsmahur.github.io/TextUtils)
  - Calculator -> [calculator](https://github.com/tsmahur/calculator) Live -> [calculator](https://tsmahur.github.io/calculator/)
  - Portofolio -> [portfolio](https://github.com/tsmahur/portfolio)   Live -> [portfolio](https://tsmahur.github.io/portfolio/)
+ - Portofolio + Travel Media Viewer (Angular) -> [ngportfolio](https://github.com/tsmahur/ngportfolio)   Live -> [ngportfolio](https://tsmahur.github.io/ngportfolio/)
 #
 ### Java Core
 - Java Concepts -> [java-concepts](https://github.com/tsmahur/java-concepts)
+- Java Compile -> [java-compile](https://github.com/tsmahur/java-compile)
 #
 ### SpringBoot
  - Reactive SpringBooot, Reactive MongoDB-> [reactive-springboot](https://github.com/tsmahur/reactive-springboot)
@@ -19,6 +21,7 @@
  - SpringBoot-mongoDB-[springboot-mongodb](https://github.com/tsmahur/springboot-mongodb)
  - SpringBoot (H2-DATABASE)-> [h2-db](https://github.com/tsmahur/h2-db)
  - Spring Cloud Function-> [spring-cloud-function](https://github.com/tsmahur/spring-cloud-function)
+ - Spring Security-> [security](https://github.com/tsmahur/security)
 #
 ### Microservices with Eureka, Api-Gateway, Hystrix, Cloud config server, Zipkin
    - [ms-eureka-gateway-hysrtix-cloud-config](https://github.com/tsmahur/ms-eureka-gateway-hysrtix-cloud-config)
