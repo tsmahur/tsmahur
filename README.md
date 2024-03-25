@@ -33,3 +33,5 @@
 6. Cloud Configurations -> [cloud-config](https://github.com/tsmahur/cloud-config)
 7. Configuration Github server -> [configurations-server](https://github.com/tsmahur/configurations-server)
 #
+### Maven Archetype
+mvn-custom-archetype -> [mvn-custom-archetype](https://github.com/tsmahur/mvn-custom-archetype)
