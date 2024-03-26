@@ -18,6 +18,7 @@
 ### SpringBoot
  - Reactive SpringBooot, Reactive MongoDB-> [reactive-springboot](https://github.com/tsmahur/reactive-springboot)
  - SpringBoot-h2-> [java-springboot](https://github.com/tsmahur/java-springboot)
+ - SpringBoot-SQL-> [springboot-sql](https://github.com/tsmahur/springboot-sql)
  - SpringBoot-mongoDB-[springboot-mongodb](https://github.com/tsmahur/springboot-mongodb)
  - SpringBoot (H2-DATABASE)-> [h2-db](https://github.com/tsmahur/h2-db)
  - Spring Cloud Function-> [spring-cloud-function](https://github.com/tsmahur/spring-cloud-function)
