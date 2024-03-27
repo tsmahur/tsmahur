@@ -26,6 +26,7 @@ mvn-custom-archetype -> [mvn-custom-archetype](https://github.com/tsmahur/mvn-cu
  - SpringBoot (H2-DATABASE)-> [h2-db](https://github.com/tsmahur/h2-db)
  - Spring Cloud Function-> [spring-cloud-function](https://github.com/tsmahur/spring-cloud-function)
  - SpringBoot kie service-> [kie-service](https://github.com/tsmahur/kie-service)
+ - jbpm-examples -> [jbpm-7.74.1.Final-examples](https://github.com/tsmahur/jbpm-7.74.1.Final-examples)
 #
 ### Microservices with Eureka, Api-Gateway, Hystrix, Cloud config server, Zipkin
    - [ms-eureka-gateway-hysrtix-cloud-config](https://github.com/tsmahur/ms-eureka-gateway-hysrtix-cloud-config)
