@@ -1,5 +1,7 @@
 # <p align="center"> Hello Namaste :pray: </p>
 #
+### Android
+ - Simple Web Browser -> [android-my-browser](https://github.com/tsmahur/android-my-browser)
 ### (React+SpringBoot) Video streaming Web Application
 1. React App Frontend-> [video-stream-react-app](https://github.com/tsmahur/video-stream-react-app)
 2. Spring Boot Backend -> [video-stream-springboot](https://github.com/tsmahur/video-stream-springboot)
